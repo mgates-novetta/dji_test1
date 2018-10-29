@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_194c41c5c21a99545d8f742deeb48c93daddfa77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/6da2bbed1e14220d2f99e5c90669e1593636eca0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48f929fc89f6a4c77a2f9d432f1ea755abf462cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/e3af7d989e65b980b6cbb89a9a49fca3d9905003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_465276a9776b963ac7a24a2b45242ee8a4ef3270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.57/f66a135611d42c992e5745788c3f94eb06464537/bcprov-jdk15on-1.57.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f66a135611d42c992e5745788c3f94eb06464537">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk15on-1.57_5e3eba710e149610e6c1668b88e078125fe032f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/5a7fe4f725123640bb4dc4d7381352a655853c52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d609c23db833dcf85a15b24a2d587a78ea1fb66e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/com.vividsolutions/jts/1.8/6ad868f7fe14ef6646d584072e33247eb95f9d13/jts-1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ad868f7fe14ef6646d584072e33247eb95f9d13">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/jts-1.8_b9510327591a90735e552150adbad6b9485a19ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/20d43c8a4e9432b7c245fb5f1af3e7495a9309f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca5c11432468200bbd2fa4afaf03bdf3ecfd1b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.57/5c96e34bc9bd4cd6870e6d193a99438f1e274ca7/bcpkix-jdk15on-1.57.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5c96e34bc9bd4cd6870e6d193a99438f1e274ca7">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcpkix-jdk15on-1.57_a50808021fb6da52cacdc6d22e03b3b4d4477471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/2c7c14e176dd466c56d3749c8bca88c2ce059da7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48bb39a8c77b8918ea0518866c547f1345bdae2d">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3af1113fba1ec8d8ace79b65008df3a4ce70d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/fa0a4b2ee61ec9a3461fdf69d5442a93709ff6b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7edaa094ec3e309499167b68e5749ab20d0c4569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57e4a03424c16c96f6e15b554008df9bac396d1f">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_92dc7bb49fb98cc4eea5458d3c9e43ce84d93189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/10e639bb18b61ebf334e0f41ac028fd56ba0d4c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7b5adca4106586932a9bbb6493adc7ebb858202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_a374fab872084fc00b1eba7a12000029916cf51c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="217c890d6e94b94b9f1c6bc44510b46fb654c715">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1756ff0b4111c558b473af275b504554277508ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/796b59b9c01908ddcb7088a2d6a7e125a716176b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc79570a57e6b39cbeef6b420d619270425ea6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fb55c48be64a50e492ed4d0ff8611cd7d89501ce">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-computation-expressions-0.21.1_3501f51f885f1efaf6eed285a5865b5faccf70cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/e70643ce9287cd3e97ad813f0f2744b4df234139/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a04d7936fb0b2b3738e25e7f4e4ee4ee419278b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_32673beb55932087dbeda728f03790b7449daa21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_6531e9a70cd7e63a4857f90511e47a4bd87f5807/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/com.lmax/disruptor/3.3.9/7898f8e8dc2d908d4ae5240fbb17eb1a9c213b9b/disruptor-3.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7898f8e8dc2d908d4ae5240fbb17eb1a9c213b9b">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/disruptor-3.3.9_bf4fb9067ae7581bfa028eeabb0e3900b6a020d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/dji-rxjava-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c79b2547fa993825756d71430c9fe9cfba2c189">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/dji-rxjava-1.1.3_bfb9172325169dca84d3e4ac90fd7a44153156d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/rxjava-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="597e94dc6f967f58d2ab3b092224375ffcc49bc5">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.0_3cd40fe3161b13ec654b2ea238783cc6d060e824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_658698632923ce3dc63ef808a606156ed1cec009/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66bcf8f2c9543332817d33884bdf146cadb42d81">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e52b8273f40c4cad1fe35fe2851bc6e14a66017d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0d9c3a922a7794e960b65b0172606144b185811">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_698d2e9914347f7390b4fe4ca138b343b02fa7dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/logging-interceptor-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09793ad9c2308635c4e8a862d18f8b32a05cbb9d">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.6.0_f498abbd488cff9cb3f0662ff7afc353a0369289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/7f5cc7326ebaafabde9dcdabb818f470d743f9ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_568a6f5c31bf1783c03f1dde143926af55976f7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_f02cf91262205ec16c93c30f7348ae9562a4ed23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/ea3f4b97c256411bceb0610368782ab62e747e86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15689d200cf8dee70fe9aae0642d0f5bccc3b49c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/f75e87448a9a01283244e5468eeba413aa7530f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d975f4317408b17a6827a80e26adaba8f8a06522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/rxandroid-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8c023dc6974699af1aca0e94e0e4f1403dc53849">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.1.0_c10e7cc9c7cd4db4451d9c4ce0788df7cd216e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/com.squareup.wire/wire-runtime/2.2.0/edcc5f389a5ffc0aa6fdcd73480e563affdbd24c/wire-runtime-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="edcc5f389a5ffc0aa6fdcd73480e563affdbd24c">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/wire-runtime-2.2.0_62e43d06ebfc8810183c6ca59e01ac4daa4c6bc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.android/build-cache/033a750cc9d966d5ddec9cb9a8f7c45a42972a87/output/jars/libs/adapter-rxjava2-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f0672896d0ccddf52382fe5d4c188792c81f5a8f">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava2-2.2.0_0c7cbf08a4655c5146bd7769fb54beeb35104730/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/magnimusprime/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/magnimusprime/Desktop/Novetta/AWSIoT/Drone/DJI/Mobile-SDK-Android-master/Sample Code/app/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.8_24d884785fdfbf79b21c8a624bc25cb423a2b5c9/classes.dex" />
+    </item>
+
+</items>
